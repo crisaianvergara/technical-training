@@ -1,0 +1,5 @@
+## Clone
+git clone git@github.com:crisaianvergara/technical-training.git .
+
+## Add remote
+git remote add dev git@github.com:crisaianvergara/technical-training.git
